@@ -1,5 +1,5 @@
 # Titanic-Dataset
-## Exploratory Data Analysis.
+# Exploratory Data Analysis.
 This project to gain insights into the dataset and explore patterns.
 # Overview
 This dataset contains information about passengers aboard the Titanic, including survival status.
